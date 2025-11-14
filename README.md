@@ -28,5 +28,7 @@ HTML5 Constraint Validation API：配合自訂驗證提示。
 自訂驗證：使用 JavaScript 額外檢查坪數是否為有效數字且大於最小限制（例如 5 坪），以及確保使用者至少選擇一項服務項目。
 使用體驗：驗證失敗時，會觸發 Bootstrap 的錯誤樣式提示並顯示彈跳視窗提醒。
 
-# 3. 互動功能：提交狀態回饋
+3. 互動功能：提交狀態回饋
 表單送出成功後，透過 DOM 操作動態隱藏表單內容，並在頁面底部顯示一則包含使用者姓名的感謝成功訊息，提供視覺上的狀態確認。
+
+GitHub Pages 網址 : https://duckfan1106.github.io/114_web_midterm_project/index.html#portfolio
